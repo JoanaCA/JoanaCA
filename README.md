@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Joana Carabajal</h1>
 <h3 align="center">Backend Java Dev.</h3>
 
-- 🌱 I’m currently learning **SpringBoot, Angular and in the entrance course to the programming course at the utn.**
+- 🌱 I’m currently learning **SpringBoot, Angular and in the entrance course to the programming course at the national technological university (UTN)**
 
 - 👨‍💻 All of my projects are available at [not yet available!](not yet available!)
 
