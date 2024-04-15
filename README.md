@@ -3,17 +3,10 @@
 <h1 align="center">Hi 👋, I'm Joana Carabajal</h1>
 <h3 align="center">Backend Java Dev.</h3>
 
-- 🌱 I’m currently learning **SpringBoot, Angular and in the entrance course to the programming course at the national technological university (UTN)**
-
-- 👨‍💻 All of my projects are available at [not yet available!](not yet available!)
-
-- 📝 I regularly write articles on [don't go there jeje!](don't go there jeje!)
-
-- 💬 Ask me about **programming issues.**
+- 🌱 I’m currently student **at the national technological university (UTN)**
 
 - 📄 Know about my experiences [you can check it out on my LinkedIn](you can check it out on my LinkedIn)
 
-- ⚡ Fun fact **I don't know, you tell me XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
