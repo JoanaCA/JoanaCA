@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Joana Carabajal</h1>
-<h3 align="center">Backend Java Dev.</h3>
+<h1 align="center">Backend Java Dev.</h1>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently student **at the national technological university (UTN)**
 
