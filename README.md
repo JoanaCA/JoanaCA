@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<h1 align="center">Backend Java Dev.</h1>
+<h1 align="center">Java Backend Engineer and Software Development student at UADE.</h1>
 <h3 align="center"></h3>
 
-- 🌱 Software development student at UADE, experience in technical support, Java backend development. Self-taught. Problem-solver because I like things to work no matter what. I use AI to accelerate whatever I need to learn to get where I want to be.
+- 🌱 I enjoy coding while understanding the business, solving real product problems, and collaborating with teams that truly build together.
+
+I like going from zero to one with AI, using it for whatever is needed fast.
+
+I'm looking for a product-centric company or ambitious startup where I can take ownership, understand the system from the inside out, and build features that directly impact users.
 
 
 
