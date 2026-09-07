@@ -5,9 +5,9 @@
 
 - 🌱 I enjoy coding while understanding the business, solving real product problems, and collaborating with teams that truly build together.
 
-I like going from zero to one with AI, using it for whatever is needed fast.
+- I like going from zero to one with AI, using it for whatever is needed fast.
 
-I'm looking for a product-centric company or ambitious startup where I can take ownership, understand the system from the inside out, and build features that directly impact users.
+- I'm looking for a product-centric company or ambitious startup where I can take ownership, understand the system from the inside out, and build features that directly impact users.
 
 
 
